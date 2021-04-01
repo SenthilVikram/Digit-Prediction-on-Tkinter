@@ -1,9 +1,7 @@
 # Tkinter_Practice_Project_Digit_Predictor
-MNIST digit classification model is trained and the weights are stored. 
+MNIST digit classification model is trained and the weights are saved. 
 
-Stored weights are used to predict digits in tkinter
-
-You may choose to only download weights file and tkinter code to see the results.
+Saved weights are loaded and used to predict digits in tkinter
 
 Sample outputs:
 
